@@ -1,0 +1,39 @@
+
+body {
+    background-color:rgb(222, 141, 135);
+ 
+  } 
+img{
+  width: 500px;
+  height:400px;
+  align-items: center;
+ 
+  margin-right: 20px;
+  box-shadow: 5px  5px  5px rgb(73, 73, 73);
+}  
+.tourism-2
+{
+border-style:solid 1px black;
+background-color:white;
+width:100%;
+margin-right: 20px;
+
+}
+.tourism-2 h2{
+font-family:Georgia;
+font-size:30px;
+text-align:center;
+color:rgb(196, 6, 73);
+padding-top:20px;
+}
+.tourism-2 p{
+margin:15px;
+font-size:20px;
+text-align:center;
+
+}
+.point4{
+ 
+    margin-left:10px;
+    padding:15px;
+    }

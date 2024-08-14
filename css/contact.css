@@ -1,0 +1,50 @@
+
+body {
+    background-color:rgb(222, 141, 135);
+    width:100%;
+  } 
+.tourism-2
+{
+border-style:solid 1px black;
+background-color:white;
+width:100%;
+margin:0px;
+padding-bottom: 10px;
+}
+.tourism-2 h2{
+font-family:Georgia;
+font-size:30px;
+text-align:center;
+color:rgb(196, 6, 73);
+padding-top:20px;
+}
+.tourism-2 p{
+
+font-size:20px;
+text-align:center;
+}
+.tourism-last{
+    border-style:solid 1px black;
+    background-color:rgb(219, 189, 186);
+    border-width:10px;
+    margin-left:120px;
+    margin-right:120px;
+    margin-bottom:20px;
+    padding-bottom:30px;
+    padding-top:30px;
+    }
+    .last{
+    font-family:Georgia;
+    color:rgb(50, 15, 82);
+    margin-left:5px;
+    margin-right:100px;
+    }
+.end{
+    margin-left:10px;
+    margin-bottom:5px;
+    margin-top:5px;
+    margin-right:10px;
+    }
+.st{
+        color:red;
+    }  
